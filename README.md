@@ -2,4 +2,5 @@
 hello world
 
 hello again
- test
+test
+000000
