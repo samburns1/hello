@@ -1,6 +1,1 @@
-# hello
-hello world
-
-hello again
-test
-000000
+Here is come simple code I wrote to easily track dice rolling for Stats class
